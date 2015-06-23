@@ -6,6 +6,9 @@
 
 而且程式會中止
 
+
+
+
 2.
 因為throw出來的object type 是double
 
